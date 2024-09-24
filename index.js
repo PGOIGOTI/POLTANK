@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Eden Jamming","I am Eternal"];
+const statusMessages = ["Fuyu no Hanashi","I am Eternal"];
 
 
 let currentIndex = 0;
